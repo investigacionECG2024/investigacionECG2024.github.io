@@ -312,7 +312,7 @@ p {
 #services .service-bottom .icon {
 	height: 80px;
 	width: 80px;
-	text-align: center;
+	position: absolute;
 	margin-bottom: 20px;
 }
 #services .service-item h2 {
